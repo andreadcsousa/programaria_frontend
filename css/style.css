@@ -24,6 +24,11 @@ h1 {
   font-weight: normal;
 }
 
+.principal a:hover {
+  color: #2a0074;
+  text-decoration: none;
+}
+
 .principal li {
   display: inline-block;
   line-height: 2.5;
